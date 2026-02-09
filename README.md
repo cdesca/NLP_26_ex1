@@ -26,5 +26,6 @@ The lyrics are loaded dynamically from:
 
 2. **spaCy Language Models**
 
-- **Welsh model**: `cy_techiaith_tag_lem_ner_lg`  
+- **Welsh model**: `cy_techiaith_tag_lem_ner_lg`
+    - Instructions for downloading Welsh package (scroll down for English): https://github.com/techiaith/spacy_cy_tag_lem_ner_lg
 - **English model**: `en_core_web_sm`
